@@ -23,9 +23,9 @@
 
 <br>
 
-<div>
-  <img width="500" src="https://user-images.githubusercontent.com/53796755/213934647-13707f4f-a956-4bc6-aa82-85a54ff11ea4.png" />
-  <img width="500" src="https://user-images.githubusercontent.com/53796755/213934641-8bf6d543-8baa-4f67-ad75-4fbd322a899b.png" />
+<div align="center">
+  <img width="49%" src="https://user-images.githubusercontent.com/53796755/213934647-13707f4f-a956-4bc6-aa82-85a54ff11ea4.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/53796755/213934641-8bf6d543-8baa-4f67-ad75-4fbd322a899b.png" />
 </div>
 
 ## 🚀 Tecnologias
